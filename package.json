@@ -2,8 +2,8 @@
   "name": "vexcel",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "myliang <liangyuliang0335@126.com>",
-  "private": true,
+  "author": "myliang <liangyuliang0335@126.com>,qfli<tmd1414114@163.com>",
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

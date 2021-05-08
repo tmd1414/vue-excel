@@ -714,17 +714,17 @@ export default {
         console.log(type);
         console.log(type);
         if (type == "addbefore") {
-          this.value.rows.splice(row, 0, { height: 55, qqqqq: "ddd" });
+          this.value.rows.splice(row, 0, { height: 22, qqqqq: "ddd" });
           _this.editValuePos(row, "row", "edit");
         } else if (type == "addafter") {
           this.value.rows.splice(row + 1, 0, { height: 22, dd: "ddd" });
           _this.editValuePos(row + 1, "row", "edit");
         } else if (type == "addleft") {
-          this.value.cols.splice(col, 0, { width: 22, index: col });
+          this.value.cols.splice(col, 0, { width: 200, index: col });
           _this.editColIndex();
           _this.editValuePos(col, "col", "edit");
         } else if (type == "addright") {
-          this.value.cols.splice(col + 1, 0, { width: 22, index: col + 1 });
+          this.value.cols.splice(col + 1, 0, { width: 200, index: col + 1 });
 
           _this.editColIndex();
           _this.editValuePos(col + 1, "col", "edit");
