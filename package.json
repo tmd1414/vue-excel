@@ -2,6 +2,7 @@
   "name": "vue-easy-excel",
   "version": "1.0.0",
   "description": "A Vue.js project",
+  "main":"index.js",
   "author": "myliang <liangyuliang0335@126.com>,qfli<tmd1414114@163.com>",
   "private": false,
   "scripts": {
