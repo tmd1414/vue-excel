@@ -17,7 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 整体预览图
-[!image](https://github.com/tmd1414/vue-easy-excel/blob/master/%E6%95%B4%E4%BD%93%E9%A2%84%E8%A7%88%E5%9B%BE.jpg)
+![image](https://github.com/tmd1414/vue-easy-excel/blob/master/%E6%95%B4%E4%BD%93%E9%A2%84%E8%A7%88%E5%9B%BE.jpg)
 
 ```
 
